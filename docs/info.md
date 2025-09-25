@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Mi proyecto recibe una señal de un tren de pulsos y saca una secuencia de 4 bits.
 
 ## How to test
 
-Explain how to use your project
+Hay que conectar 4 leds a la salidad de Out0 a Out3 y una señal de reloj a la entrada 1
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+NECESITARAS LEDS, 2 INTERRUMPORES Y UNA ENTRADA DE PULSOS
